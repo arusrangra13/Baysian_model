@@ -1,4 +1,4 @@
-# AI---based-E-learning-recommendation-system
+# Baysian-Linear Model for Heart-Attack prediction
 Heart Disease Prediction using Bayesian Network
 
 Project Overview
